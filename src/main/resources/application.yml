@@ -2,4 +2,4 @@ server:
   port: 9993
 logging:
   level:
-    root: debug
+    root: info
